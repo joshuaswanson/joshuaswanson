@@ -1,16 +1,37 @@
-## Hi, I'm Joshua! 👋
+## Hi, I’m Joshua!
 
-<!--
-**joshuaswanson/joshuaswanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master’s student in Computer Science at ETH Zurich, researching AI security and privacy.
 
-Here are some ideas to get you started:
+My GitHub is a bit all over the place, so here’s a quick guide to what’s what.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research
+
+- [ethz-spylab/modal-aphasia](https://github.com/ethz-spylab/modal-aphasia) - Code for the ICLR 2026 paper "Modal Aphasia," showing that unified multimodal models can reproduce memorized concepts as images but fail to describe them in text
+
+### Academic Projects
+
+- [contextual-bandits](https://github.com/joshuaswanson/contextual-bandits) - Contextual bandits
+- [neural-style-transfer](https://github.com/joshuaswanson/neural-style-transfer) - TensorFlow implementation of neural style transfer (UW CSE 455)
+- [recommender-fairness](https://github.com/joshuaswanson/recommender-fairness) - Investigating whether perceived fairness influences user adoption of TikTok (EPFL CS-498)
+- [ucb-pricing](https://github.com/joshuaswanson/ucb-pricing) - Dynamic pricing strategies under budget constraints using UCB
+
+### macOS Apps
+
+- [inventory-tracker](https://github.com/joshuaswanson/inventory-tracker) - Stock levels, purchases, usage, and vendor tracking with SwiftUI and SwiftData
+- [mp3-editor](https://github.com/joshuaswanson/mp3-editor) - Edit MP3 metadata, album art, and audio with SwiftUI and Python
+- [ollama-gui](https://github.com/joshuaswanson/ollama-gui) - Messages-inspired GUI for Ollama, built with SwiftUI
+- [ssh-gui](https://github.com/joshuaswanson/ssh-gui) - Finder-style GUI for SSH servers
+
+### CLI Tools
+
+- [email-cli](https://github.com/joshuaswanson/email-cli) - Search, read, send, and manage emails from the terminal via Apple Mail
+- [eth-print-cli](https://github.com/joshuaswanson/eth-print-cli) - CLI for ETH Zurich’s webprint service
+- [messages-cli](https://github.com/joshuaswanson/messages-cli) - Read, search, and send messages across iMessage, WhatsApp, Telegram, and Messenger
+- [window-management-cli](https://github.com/joshuaswanson/window-management-cli) - macOS window management with grid layouts, snap, and multi-display support
+
+### Utilities
+
+- [cmux-recaptcha-solver](https://github.com/joshuaswanson/cmux-recaptcha-solver) - Auto-solve reCAPTCHA image challenges using YOLO and CLIP vision models via cmux
+- [latex-pdf-translator](https://github.com/joshuaswanson/latex-pdf-translator) - Translate French math LaTeX PDFs to English, preserving notation as vector text
+- [monitor-comparison](https://github.com/joshuaswanson/monitor-comparison) - Interactive scatter plots for comparing monitor specs like PPI, screen area, and price
+- [slides-to-video](https://github.com/joshuaswanson/slides-to-video) - Turn slide decks into narrated videos with AI voice cloning
