@@ -10,7 +10,7 @@ My GitHub is a bit all over the place, so here’s a quick guide to what’s wha
 
 ### Academic Projects
 
-- [contextual-bandits](https://github.com/joshuaswanson/contextual-bandits) - Contextual bandits
+- [contextual-bandits](https://github.com/joshuaswanson/contextual-bandits) - Contextual bandit algorithms for best-arm identification in linear and nonlinear reward settings
 - [neural-style-transfer](https://github.com/joshuaswanson/neural-style-transfer) - TensorFlow implementation of neural style transfer (UW CSE 455)
 - [recommender-fairness](https://github.com/joshuaswanson/recommender-fairness) - Investigating whether perceived fairness influences user adoption of TikTok (EPFL CS-498)
 - [ucb-pricing](https://github.com/joshuaswanson/ucb-pricing) - Dynamic pricing strategies under budget constraints using UCB
