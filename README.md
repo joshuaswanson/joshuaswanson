@@ -29,7 +29,7 @@ My GitHub is a bit all over the place, so here’s a quick guide to what’s wha
 
 ### Utilities
 
-- [cmux-recaptcha-solver](https://github.com/joshuaswanson/cmux-recaptcha-solver) - Auto-solve reCAPTCHA image challenges using YOLO and CLIP vision models via cmux
+- [ai-captcha-solver](https://github.com/joshuaswanson/ai-captcha-solver) - Auto-solve reCAPTCHA image challenges using a vision language model
 - [latex-pdf-translator](https://github.com/joshuaswanson/latex-pdf-translator) - Translate French math LaTeX PDFs to English, preserving notation as vector text
 - [monitor-comparison](https://github.com/joshuaswanson/monitor-comparison) - Interactive scatter plots for comparing monitor specs like PPI, screen area, and price
 - [slides-to-video](https://github.com/joshuaswanson/slides-to-video) - Turn slide decks into narrated videos with AI voice cloning
