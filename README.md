@@ -25,7 +25,7 @@ My GitHub is a bit all over the place, so here’s a quick guide to what’s wha
 ### CLI Tools
 
 - [email-cli](https://github.com/joshuaswanson/email-cli) - Search, read, send, and manage emails from the terminal via Apple Mail
-- [eth-print-cli](https://github.com/joshuaswanson/eth-print-cli) - CLI for ETH Zurich’s webprint service
+- [eth-print-cli](https://github.com/joshuaswanson/eth-print-cli) - Print documents via ETH Zurich’s webprint service
 - [messages-cli](https://github.com/joshuaswanson/messages-cli) - Read, search, and send messages across iMessage, WhatsApp, Telegram, and Messenger
 - [window-management-cli](https://github.com/joshuaswanson/window-management-cli) - macOS window management with grid layouts, snap, and multi-display support
 
