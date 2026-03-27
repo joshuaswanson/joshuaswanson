@@ -18,8 +18,6 @@ My GitHub is a bit all over the place, so here’s a quick guide to what’s wha
 ### macOS Apps
 
 - [inventory-tracker](https://github.com/joshuaswanson/inventory-tracker) - Stock levels, purchases, usage, and vendor tracking with SwiftUI and SwiftData
-- [mp3-editor](https://github.com/joshuaswanson/mp3-editor) - Edit MP3 metadata, album art, and audio with SwiftUI and Python
-- [ollama-gui](https://github.com/joshuaswanson/ollama-gui) - Messages-inspired GUI for Ollama, built with SwiftUI
 - [ssh-gui](https://github.com/joshuaswanson/ssh-gui) - Finder-style GUI for SSH servers
 
 ### CLI Tools
