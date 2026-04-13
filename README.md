@@ -17,7 +17,7 @@ My GitHub is a bit all over the place, so here’s a quick guide to what’s wha
 
 ### macOS Apps
 
-- [inventory-tracker](https://github.com/joshuaswanson/inventory-tracker) - Stock levels, purchases, usage, and vendor tracking with SwiftUI and SwiftData
+- [inventory-tracker](https://github.com/joshuaswanson/inventory-tracker) - Dental supply inventory tracking web app
 - [ssh-gui](https://github.com/joshuaswanson/ssh-gui) - Finder-style GUI for SSH servers
 
 ### CLI Tools
