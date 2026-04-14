@@ -15,7 +15,7 @@ My GitHub is a bit all over the place, so here’s a quick guide to what’s wha
 - [monitor-comparison](https://github.com/joshuaswanson/monitor-comparison) - Interactive scatter plots for comparing monitor specs like PPI, screen area, and price
 - [slides-to-video](https://github.com/joshuaswanson/slides-to-video) - Turn slide decks into narrated videos with AI voice cloning
 - [ssh-gui](https://github.com/joshuaswanson/ssh-gui) - Finder-style GUI for SSH servers
-- [zurich-housing-tool](https://github.com/joshuaswanson/zurich-housing-tool) - Automated housing search for Zurich with LLM-powered application messages, reCAPTCHA bypass, and a radar map dashboard
+- [zurich-housing-tool](https://github.com/joshuaswanson/zurich-housing-tool) - Automated mass housing applications in Zurich with LLM-generated application messages
 
 ### Undergraduate Research
 
