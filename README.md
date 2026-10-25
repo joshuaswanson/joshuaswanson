@@ -1,3 +1,3 @@
 ## Hi, I’m Joshua!
 
-I’m a Master’s student in Computer Science at ETH Zurich, researching AI security and privacy.
+I’m a researcher in AI security, privacy and safety at the Max Planck Institute for Intelligent Systems in the COMPASS group. I hold an MSc in Computer Science from ETH Zürich.
