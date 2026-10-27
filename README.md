@@ -1,6 +1,6 @@
 ## Hi, I’m Joshua!
 
-I’m a researcher in AI security, privacy and safety at the Max Planck Institute for Intelligent Systems in the COMPASS group.
+I’m a researcher in AI security, privacy and safety at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) in the [COMPASS](https://s-abdelnabi.github.io/group.html) group.
 
 More about my research and projects at [joshuaswanson.github.io](https://joshuaswanson.github.io).
 
