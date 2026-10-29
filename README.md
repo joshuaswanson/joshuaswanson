@@ -7,4 +7,4 @@ More about my research and projects at [joshuaswanson.github.io](https://joshuas
 I also like building games:
 
 - [Battleship Bonanza](https://joshuaswanson.github.io/battleship-bonanza/): Cute boats. Big guns. Pick two attachments and race to the finish!
-- [Depths of Doom](https://joshuaswanson.github.io/depths-of-doom/): Dive in if you dare.
+- [Submania](https://joshuaswanson.github.io/submania/): A cartoony underwater submarine shooter. Dive in if you dare!
